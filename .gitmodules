@@ -1,0 +1,3 @@
+[submodule "springy"]
+	path = springy
+	url = https://github.com/dhotson/springy.git
